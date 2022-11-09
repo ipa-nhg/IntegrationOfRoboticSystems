@@ -22,6 +22,7 @@ Top mentioned missing steps:
 - Technology Maturation 
 - Documentation 
 ![image](images/1_3result.png)
+
 Top proposal of alternative ways:
 - Similar to cyclic, but not linear. 
 - A mixture of Fig 2 and 3. Fig 2 alone is not sufficient because the requirements cannot be adapted. and Fig 3 is too strict and should allow reasonable shortcuts. 
